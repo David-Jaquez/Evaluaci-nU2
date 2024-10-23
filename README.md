@@ -1,2 +1,2 @@
-# Evaluaci-nU2
+# EvaluaciónU2
 Este repositorio contiene mi examen practico de la segunda unidad
